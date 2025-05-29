@@ -1,4 +1,4 @@
-package edu.TaskManager.model;
+package edu.TaskManager.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
